@@ -6,7 +6,7 @@ public class TestCase0001 {
 		TestCase0001 mobj = new TestCase0001();
 		mobj.m1();
 		mobj.m2();
-
+		mobj.m3();
 	}
 
 	public void m1()
